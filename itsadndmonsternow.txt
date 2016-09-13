@@ -8,8 +8,8 @@ $button : You encounter...
 $monsterName
 [an] [descriptor] [creature]
 [title] of [creature][s]
-[madeupname], [title] of [[creature][s] | [the [theCreature]|the [theCreature][s]]]
-[madeupname]
+[Madeupname], [title] of [[creature][s] | [the [theCreature]|the [theCreature][s]]]
+[Madeupname]
 
 $descriptor
 black
@@ -30,18 +30,64 @@ King
 Protector
 
 $madeupname
-[namepart1][namepart2]
-jerry {20%}
+[namepart,x1-5]
 
-$namepart1
-jer
-jim
-joe
-
-$namepart2a
-ry
-my
-y
+$namepart
+a
+alo
+ath
+bul
+carn
+cass
+ceph
+chim
+cho
+co
+cun
+da
+dan
+dandi
+di
+dra
+er
+es
+ex
+fe
+fey
+fi
+finge
+ge
+gon
+ham
+hy
+ic
+if
+las
+lee
+ley
+lix
+ly
+ma
+mack
+mar
+ne
+ni
+ning
+no
+or
+pe
+pel
+rald
+raph
+re
+reus
+ri
+ro
+se
+taur
+thok
+wee
+wug
 
 $theCreature
 wolf
