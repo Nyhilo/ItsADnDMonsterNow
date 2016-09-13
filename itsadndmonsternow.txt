@@ -267,7 +267,7 @@ $madeupname
 [[namepart,x2-3]|[namepart,x1-4]|[namepart,x2-5]]
 
 $namepart
-[thing|descriptor] {20%}
+[[thing]|[descriptor]] {20%}
 a
 alo
 ath
