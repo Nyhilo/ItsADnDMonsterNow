@@ -343,6 +343,7 @@ ro
 se
 set
 tash
+taur
 taut
 tho
 thok
