@@ -6,22 +6,252 @@ $amount : 1
 $button : You encounter...
 
 $monsterName
-[an] [descriptor] [creature]
-[title] of [creature][s]
-[Madeupname], [title] of [[creature][s] | [the [theCreature]|the [theCreature][s]]]
+[An] [Creature]
+[An|The] [Title] of [|the][Creature][s]
+[Madeupname], [Title] of [[Creature][s] | [the [TheThing]|the [TheThing][s]]]
 [Madeupname]
-
-$descriptor
-black
-red
-awakened
-arcane
+[Madeupname], [Title]
 
 $creature
-bear
+[Descriptor] [Thing]
+[Descriptor][|-][thing] {60%}
+[Thing][thing] {20%}
+[Descriptor] [Descriptor] [Thing] {20%}
+[Descriptor] [creature] {50%}
+[[Descriptor]|[Thing]folk] {20%}
+Were[thing] {5%}
+
+$descriptor
+[attribute]-[limb]
+[attribute]
+[madeupname]
+alpha
+arboreal
+arcane
+armored
+artifice
+awakened
+baby
+barraging
+battered
+belligerent
+blinking
+buck
+bully
+cave
+cliff
+clockwork
+combat
+demonic
+dextrous
+dire
+dread
+drop
+dust
+feild
+fire
+flying
+forest
+gelatinous
+gentle
+giant
+giant
+gladiator {50%}
+grave
+half
+hell
+hellfire
+horned
+howling
+iron
+jelly
+labyrinth
+lightning
+little
+mage
+maneater
+manticore
+molten
+mummified
+night
+ocean
+old
+pack
+phase
+plasma
+portal
+prestidigitation
+prismatic
+pseudo
+pygmy
+rock
+sail
+sea
+shackled
+shadow
+shrieking
+siren
+skeletal
+smoldering
+snow
+snowy
+spiked
+sputtering
+striped
+swarm of [creature]
+tickle
+trash
+tunneling
+undead
+venomous
+water
+weaving
+winged
+wood
+wooden
+young
+zombie
+
+$attribute
+black
+blue
+brown
+flat
+fat
+giant
+gold
+grave
+gray
+green
+large
+neon {10%}
+neon [color] {10%}
+red
+rough
+snow
+spike
+spotted
+stripe
+thin
+white
+yellow
+gold {20%}
+
+$limbed
+beak[|ed]
+bell[y|ied]
+bod[y|ied]
+ear[|ed]
+ey[e|ed]
+foot[|ed]
+hair[|ed]
+head[|ed]
+limb[|ed]
+shell[|ed]
+skin[|ed]
+tail[|ed]
+wing[|ed]
+
+$thing
+[madeupname]
 octopus
-ember
+tumbler
+cockroach
+bison
+bear
+beaver
+penguin
+pigeon
+shark
+toast
+beholder
+wife
+mimic
+spider
+beast
+creeper
+hag
+tortoise
+pitcher plant
+hunter
+horror
+demon
+walker
+ambusher
+flitter
+dragon
+crab
+dachsund
+centaur
+minotaur
+hydra
+amalgam
+door {20%}
+owl
+shrimp
+gazebo {25%}
+raven
+marmoset
+angel
+chicken
+turtle
+fish
+cube
+cubeling
+armadillo
+axolotl
+worm
+wurm
+chameleon
+snail
+crane
+moth
+tardigrade
+giant
+tree
+ooze
+hormagaunt
+wraith
+hydra
+wasp
+stone
+elemental
+elk
+mammoth
+mandrake
+sprout
+mantis
+leopard
+manticore
+mosquito
+skeleton
+rat
+tiger
+leech
+elephant
+octopus
+whale
+homunculus
+griffon
+snake
+boar
+swarm
+cactus
+terror
+strider
+wendigo
 spirit
+treant
+cat
+boar piglet {20%}
+bear cub {20%}
+butterfly
+ant
+panda
+devil
+deer
+gremlin
+wyvern
 
 $title
 Acolyte
@@ -30,12 +260,16 @@ King
 Protector
 
 $madeupname
-[namepart,x1-5]
+[namepart,x2-3|namepart,x1-4|namepart,x1-5]
 
 $namepart
 a
 alo
 ath
+bi
+bit
+bo
+bob
 bul
 carn
 cass
@@ -70,6 +304,7 @@ ly
 ma
 mack
 mar
+mo
 ne
 ni
 ning
@@ -84,16 +319,21 @@ reus
 ri
 ro
 se
+set
+tash
 taur
 thok
 wee
 wug
 
-$theCreature
-wolf
+$theThing
+[creature]
 forest
 tree
-[creature]
+ocean
+land
+sky
+plain
 
 $itsadndmonsternow
-You encounter... [monsterName]
+You encounter... [monstername]
