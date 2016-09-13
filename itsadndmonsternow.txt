@@ -10,8 +10,8 @@ $monsterName
 [person]
 
 $person
-[The] [Title] of [|the ][Creature][s]
-[An] [Title] of [|the ][Creature][s]
+The [Title] of[| the] [Creature][s]
+[An] [Title] of[| the] [Creature][s]
 [Madeupname], [Title] of [[Creature][s] | [the [TheThing]|the [TheThing][s]]]
 [Madeupname]
 [Madeupname], [Title]
