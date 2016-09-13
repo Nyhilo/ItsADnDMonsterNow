@@ -7,7 +7,11 @@ $button : You encounter...
 
 $monsterName
 [An] [Creature]
-[An|The] [Title] of [|the][Creature][s]
+[person]
+
+$person
+[The] [Title] of [|the][Creature][s]
+[An] [Title] of [|the][Creature][s]
 [Madeupname], [Title] of [[Creature][s] | [the [TheThing]|the [TheThing][s]]]
 [Madeupname]
 [Madeupname], [Title]
@@ -19,7 +23,7 @@ $creature
 [Descriptor] [Descriptor] [Thing] {20%}
 [Descriptor] [creature] {50%}
 [[Descriptor]|[Thing]folk] {20%}
-Were[thing] {5%}
+were[thing] {10%}
 
 $descriptor
 [attribute]-[limb]
@@ -260,7 +264,7 @@ King
 Protector
 
 $madeupname
-[[namepart,x2-3]|[namepart,x1-4]|[namepart,x1-5]]
+[[namepart,x2-3]|[namepart,x1-4]|[namepart,x2-5]]
 
 $namepart
 a
