@@ -1,7 +1,7 @@
 $name : ItsADnDMonsterNow
 $author : Nyhilo
 $description : Attempts to give a fully stated monster using data pulled from https://drive.google.com/file/d/0B1RXFr7uOdUjVGp1QndTUTZqelU/view.
-$picture : 
+$picture : https://b.thumbs.redditmedia.com/mvYRDBjBgbS0QeXi2BvQZ_-XVi3JGIRzimwfK4AobBM.jpg
 $amount : 1
 $button : You encounter...
 
@@ -267,6 +267,7 @@ $madeupname
 [[namepart,x2-3]|[namepart,x1-4]|[namepart,x2-5]]
 
 $namepart
+[thing|descriptor] {20%}
 a
 alo
 ath
