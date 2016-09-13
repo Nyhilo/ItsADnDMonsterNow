@@ -260,7 +260,7 @@ King
 Protector
 
 $madeupname
-[namepart,x2-3|namepart,x1-4|namepart,x1-5]
+[[namepart,x2-3]|[namepart,x1-4]|[namepart,x1-5]]
 
 $namepart
 a
