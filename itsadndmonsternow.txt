@@ -8,6 +8,7 @@ $button : You encounter...
 $monsterName
 [An] [Creature]
 [person]
+[Madeupname], the [Creature] {5%}
 
 $person
 The [Title] of[| the] [Creature][s]
