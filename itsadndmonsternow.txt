@@ -1,7 +1,7 @@
 $name : ItsADnDMonsterNow
 $author : Nyhilo
 $description : Attempts to give a fully stated monster using data pulled from https://drive.google.com/file/d/0B1RXFr7uOdUjVGp1QndTUTZqelU/view.
-$picture : https://b.thumbs.redditmedia.com/mvYRDBjBgbS0QeXi2BvQZ_-XVi3JGIRzimwfK4AobBM.jpg
+$picture : https://b.thumbs.redditmedia.com/tkl_LQFgdiJGri2GB27vhoi-cqtFpAlGenYMKq_OO1A.jpg
 $amount : 1
 $button : You encounter...
 
@@ -271,36 +271,50 @@ $namepart
 a
 alo
 ath
+at
 bi
 bit
 bo
 bob
 bul
+ca
+car
 carn
 cass
 ceph
+chi
 chim
 cho
 co
 cun
+cy
 da
 dan
 dandi
+andi
 di
 dra
+e
 er
+era
 es
 ex
 fe
 fey
 fi
+fin
 finge
+fo
 ge
 gon
+gam
+go
 ham
 hy
+i
 ic
 if
+le
 las
 lee
 ley
@@ -315,6 +329,8 @@ ni
 ning
 no
 or
+on
+o
 pe
 pel
 rald
@@ -326,10 +342,13 @@ ro
 se
 set
 tash
-taur
+taut
+tho
 thok
 wee
 wug
+us
+u
 
 $theThing
 [creature]
