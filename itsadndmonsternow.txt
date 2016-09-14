@@ -16,6 +16,11 @@ The [Title] of[| the] [Creature][s]
 [Madeupname], [Title] of [[Creature][s] | [the [TheThing]|the [TheThing][s]]]
 [Madeupname]
 [Madeupname], [Title]
+[Madeupname] the [Attribute]
+[Attribute] [Title] {40%}
+[Madeupname], the [Attribute] [Title]
+[An] [Attribute] [Title] {40%}
+The [Attribute] [Title] {40%}
 
 $creature
 [Descriptor] [Thing]
@@ -53,7 +58,7 @@ dire
 dread
 drop
 dust
-feild
+field
 fire
 flying
 forest
@@ -141,6 +146,11 @@ thin
 white
 yellow
 gold {20%}
+gentle
+hopeless
+strong
+weak
+little
 
 $limbed
 beak[|ed]
@@ -259,10 +269,33 @@ gremlin
 wyvern
 
 $title
-Acolyte
-Druid
-King
-Protector
+acolyte
+druid
+king
+queen
+protector
+rogue
+tamer
+hunter
+general
+[husband|wife] {20%}
+witch
+wizard
+friend
+excecutor {50%}
+angel
+sergeant
+commander
+ruler
+wanderer
+pirate
+thief
+mage
+mob
+cleric
+priest
+collector
+
 
 $madeupname
 [[namepart,x2-3]|[namepart,x1-4]|[namepart,x2-5]]
