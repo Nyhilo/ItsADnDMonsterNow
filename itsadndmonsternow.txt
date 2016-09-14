@@ -15,7 +15,7 @@ The [Title] of[| the] [Creature][s]
 [An] [Title] of[| the] [Creature][s]
 [Madeupname], [Title] of [[Creature][s] | [the [TheThing]|the [TheThing][s]]]
 [Madeupname]
-[Madeupname], [Title]
+[Title] [Madeupname]
 [Madeupname] the [Attribute]
 [Attribute] [Title] {40%}
 [Madeupname], the [Attribute] [Title]
