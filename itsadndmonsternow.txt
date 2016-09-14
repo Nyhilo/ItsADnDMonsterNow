@@ -136,7 +136,7 @@ gray
 green
 large
 neon {40%}
-neon [color] {40%}
+neon [attribute] {40%}
 red
 rough
 snow
